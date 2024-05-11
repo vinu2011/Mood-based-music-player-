@@ -35,12 +35,12 @@ class EmotionMusicPlayer:
 
         # Define music mapping for each emotion (update with your actual music files)
         self.music_mapping = {
-            'happy': ["C:\\Users\\ramag\\OneDrive\\Desktop\\musics\\happy1.mp3"],
-            'sad': ["C:\\Users\\ramag\\OneDrive\\Desktop\\musics\\sad 1.mp3", "C:\\Users\\ramag\\OneDrive\\Desktop\\musics\\sad 2.mp3"],
-            'angry': ["C:\\Users\\ramag\\OneDrive\\Desktop\\musics\\angry1.mp3"],
+            'happy': ["C:\\Users\\ramag\\OneDrive\\Desktop\\Mood-based-music player\\Mood-based-music-player-\\happy1.mp3"],
+            'sad': ["C:\\Users\\ramag\\OneDrive\\Desktop\\Mood-based-music player\\Mood-based-music-player-\\sad 1.mp3", "C:\\Users\\ramag\\OneDrive\\Desktop\\Mood-based-music player\\Mood-based-music-player-\\sad 2.mp3"],
+            'angry': ["C:\\Users\\ramag\\OneDrive\\Desktop\\Mood-based-music player\\Mood-based-music-player-\\angry1.mp3"],
             'neutral': ['path/to/neutral_song1.mp3', 'path/to/neutral_song2.mp3'],
             'surprise': ['path/to/surprise_song1.mp3', 'path/to/surprise_song2.mp3'],
-            'fear': ["C:\\Users\\ramag\\OneDrive\\Desktop\\musics\\fear 2.mp3"],
+            'fear': ["C:\\Users\\ramag\\OneDrive\\Desktop\\Mood-based-music player\\Mood-based-music-player-\\fear 2.mp3"],
             'disgust': ['path/to/disgust_song1.mp3', 'path/to/disgust_song2.mp3'],
         }
 
